@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-castro-4231b71a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541991018307)
 
-![Saulo Castro GitHub stats](https://github-readme-stats.vercel.app/api?username=saulocastsv&showicons=true&theme=radical)
+![Saulo Castro GitHub stats](https://github-readme-stats.vercel.app/api?username=saulocastsv&show_icons=true&theme=radical)
 
 <hr>
 
@@ -27,4 +27,4 @@
 
 ### O que eu mais utiizo 🛸
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulocastsv&statsformat=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulocastsv&stats_format=bytes)
